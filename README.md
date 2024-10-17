@@ -7,8 +7,8 @@
 
 
 ## Documentation and Tutorial
-- You can visit for the <a href="https://developerburakgul.github.io/OBCalendarDemoPrivate/documentation/obiletcalendar" target="_blank">documentation</a>
-- You can visit for the <a href="https://developerburakgul.github.io/OBCalendarDemoPrivate/tutorials/obiletcalendar" target="_blank">tutorial</a> step by step
+- You can visit for the <a href="https://developerburakgul.github.io/dokuman/documentation/obiletcalendar/" target="_blank">documentation</a>
+- You can visit for the <a href="https://developerburakgul.github.io/dokuman/tutorials/obiletcalendar/" target="_blank">tutorial</a> step by step
 
 ## Examples
 
